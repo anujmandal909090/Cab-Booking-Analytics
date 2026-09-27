@@ -1,0 +1,11 @@
+company_id,company_name,base_fare_rs,per_km_rate_rs,services_offered,vehicle_types
+CMP01,Ola,52.09,14.14,"Sedan, SUV, Prime, XL","Sedan, Hatchback, SUV, Bike"
+CMP02,Uber,49.41,9.32,"Mini, Sedan","Sedan, Hatchback, SUV, Bike"
+CMP03,Rapido,51.64,19.0,"Mini, Sedan","Hatchback, Sedan, SUV"
+CMP04,Meru,40.76,13.19,"Bike, Auto, Mini","Sedan, Hatchback, SUV, Bike"
+CMP05,Jugnoo,47.54,19.52,"Mini, Sedan","Sedan, SUV, Luxury"
+CMP06,BluSmart,32.95,15.76,"Mini, Sedan, SUV, Prime, Pool","Hatchback, Sedan, SUV"
+CMP07,InDrive,53.97,16.84,"Mini, Sedan, SUV, Auto","Auto-rickshaw, Hatchback"
+CMP08,Namma Yatri,37.41,21.59,"Sedan, SUV, Prime, XL","Sedan, Hatchback, SUV, Bike"
+CMP09,ola,,11.5,"Mini, Sedan, Auto","Hatchback, Sedan"
+CMP10,UBER ,28.0,,"Sedan, SUV, Prime","Sedan, SUV"

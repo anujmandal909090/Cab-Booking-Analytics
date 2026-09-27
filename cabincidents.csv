@@ -1,0 +1,421 @@
+incident_id,order_id,incident_type,incident_date,city,severity,fine_amount_rs,description,status
+INC0001,ORD001412,  Fight  ,2025/06/14,faridabad,MEDIUM,0.0,Driver was rude to passenger,under review
+INC0002,ORD002581,Harassment Complaint,05-01-2024,Noida,  High  ,0.0,Driver took a longer route than needed,resolved
+INC0003,ORD004495,Rash Driving,2025/04/29,Pune,CRITICAL,0.0,Passenger left belongings in the cab,Resolved
+INC0004,ORD001213,overcharging,19/02/2023,Faridabad,critical,0.0,,Pending
+INC0005,ORD553491,Overcharging,12-17-2025, Bhopal,Medium,0.0,Verbal altercation between driver and passenger,Under Review
+INC0006,ORD004354,rash driving,11 Oct 2024, Indore,  Low  ,342.52,,RESOLVED
+INC0007,ORD002783,Harassment Complaint,,  Jaipur  ,Critical,1851.47,Overcharged compared to app estimate,Under Review
+INC0008,ORD001268,RASH DRIVING,06-10-2024,BANGALORE,CRITICAL,0.0,Driver was rude to passenger,RESOLVED
+INC0009,ORD002246,HARASSMENT COMPLAINT,06-07-2023,mumbai,Critical,0.0,Driver was rude to passenger, Under Review
+INC0010,ORD000932,Vehicle Breakdown,23-08-2023, Kolkata,Medium,,Vehicle broke down mid-trip,Resolved
+INC0011,ORD002236,Accident,23-07-2023,Lucknow, High,0.0,,Pending
+INC0012,ORD001714,Harassment Complaint,2023/12/11,Bhopal,Low,1820.83,,Pending
+INC0013,ORD572461, Accident,07-08-2024,Kolkata,Low,4106.53,Driver was rude to passenger,UNDER REVIEW
+INC0014,ORD001228,  Rash Driving  ,22/10/2023,hyderabad,High,1709.26,Driver took a longer route than needed,dismissed
+INC0015,ORD000550,Vehicle Breakdown,10 Jan 2024,PUNE,  Low  ,0.0,Driver took a longer route than needed, Dismissed
+INC0016,ORD562677,Fight,07/06/2024,  Bhopal  ,Low,,Passenger left belongings in the cab,Pending
+INC0017,ORD572609,Overcharging,,Bangalore,Low,2908.33,Driver was speeding on highway,Dismissed
+INC0018,ORD003107, Harassment Complaint,12-11-2023,INDORE,High,0.0,Minor collision with a two-wheeler, Dismissed
+INC0019,ORD000327,misbehavior,2024/09/20,LUCKNOW,high,,,dismissed
+INC0020,ORD004461,HARASSMENT COMPLAINT,04-14-2025,Mumbai, Low,4901.73,Passenger left belongings in the cab,Pending
+INC0021,ORD000890,Harassment Complaint,13/12/2023,noida, Medium,0.0,Vehicle broke down mid-trip,under review
+INC0022,ORD003288,ACCIDENT,2023/05/01,Pune, Medium,4305.96,Driver refused to switch off AC,Resolved
+INC0023,ORD002895,rash driving,28 Oct 2024, Jaipur,Low,,Passenger argued with driver over fare,resolved
+INC0024,ORD004634,  Misbehavior  ,01-07-2024,Delhi,Medium,,Overcharged compared to app estimate,Dismissed
+INC0025,ORD553572,Overcharging,02-25-2023,Mumbai,Medium,3107.15,Overcharged compared to app estimate,RESOLVED
+INC0026,ORD000222,OVERCHARGING,30-04-2023,Gurugram,  Critical  ,1169.89,Passenger left belongings in the cab,DISMISSED
+INC0027,ORD000107,misbehavior,02-09-2024,Noida,Medium,0.0,Driver was speeding on highway, Pending
+INC0028,ORD002870,Fight,09-03-2025,Bangalore,  Medium  ,0.0,Overcharged compared to app estimate,  Under Review  
+INC0029,ORD001970,Harassment Complaint,2023/07/22, Mumbai,Critical,2761.71,Driver was rude to passenger,Under Review
+INC0030,ORD000973, Fight,17-10-2024,  Bangalore  ,Critical,2167.85,Vehicle broke down mid-trip,DISMISSED
+INC0031,ORD002657,Fight,2023/10/19,  Kolkata  ,  Medium  ,3724.41,Overcharged compared to app estimate,  Pending  
+INC0032,ORD003321,  Misbehavior  ,00-00-0000,Gurugram,Critical,2020.22,Vehicle broke down mid-trip,PENDING
+INC0033,ORD003170,RASH DRIVING,25/10/2024,BANGALORE,Medium,,Verbal altercation between driver and passenger, Resolved
+INC0034,ORD001730,FIGHT,06-12-2024,Jaipur,  Critical  ,1018.46,Vehicle broke down mid-trip,Pending
+INC0035,ORD529134,OVERCHARGING,00-00-0000,Chandigarh,High,,Vehicle broke down mid-trip,RESOLVED
+INC0036,ORD002687,Accident,05-09-2023,Chandigarh,Critical,2655.06,Driver took a longer route than needed,  Dismissed  
+INC0037,ORD000039,overcharging,2023/04/17,chandigarh,CRITICAL,3837.84,Vehicle broke down mid-trip,Resolved
+INC0038,ORD001496,Fight,02-19-2024, Hyderabad, Medium,215.99,Driver was speeding on highway,Pending
+INC0039,ORD000707,Rash Driving,05/05/2024,Lucknow,Low,880.22,Vehicle broke down mid-trip,Dismissed
+INC0040,ORD003075, Overcharging,29-04-2024,Lucknow,  Low  ,0.0,Driver was rude to passenger,Resolved
+INC0041,ORD004819,accident,2025/10/06,mumbai,critical,0.0,,Resolved
+INC0042,ORD000801,Accident,07-11-2025, Hyderabad,High,0.0,Vehicle broke down mid-trip,pending
+INC0043,ORD003924,harassment complaint,2025/10/30,pune,low,3246.86,Vehicle broke down mid-trip, Dismissed
+INC0044,ORD002643,OVERCHARGING,00-00-0000,Faridabad,MEDIUM,3109.21,,Under Review
+INC0045,ORD004906,  Fight  ,24 Aug 2023,FARIDABAD,high,,Driver was speeding on highway,  Resolved  
+INC0046,ORD004503, Overcharging,05 Jul 2024,DELHI,Low,2763.92,Vehicle broke down mid-trip,Resolved
+INC0047,ORD001161,Rash Driving,05/05/2023,hyderabad,High,0.0,Driver was rude to passenger,  Dismissed  
+INC0048,ORD533474,Vehicle Breakdown,2024/10/13,Jaipur,critical,0.0,Driver was rude to passenger,Dismissed
+INC0049,ORD561495,misbehavior,2025/08/09,Ahmedabad,critical,4925.71,Minor collision with a two-wheeler, Under Review
+INC0050,ORD001915,rash driving,2025/04/13,LUCKNOW,High,0.0,Passenger argued with driver over fare,under review
+INC0051,ORD003765,Harassment Complaint,00-00-0000,Kolkata,  Low  ,1356.7,Driver took a longer route than needed,Dismissed
+INC0052,ORD593168,Overcharging,18-09-2025,Delhi,MEDIUM,0.0,Minor collision with a two-wheeler,PENDING
+INC0053,ORD003690,Rash Driving,01 Mar 2023,Mumbai,Medium,0.0,Driver was speeding on highway,Pending
+INC0054,ORD003103,Misbehavior,14-04-2025,jaipur,Critical,,Driver refused to switch off AC,resolved
+INC0055,ORD003523,FIGHT,04-23-2024,Chandigarh,HIGH,0.0,Minor collision with a two-wheeler,Pending
+INC0056,ORD003419,Accident,08-02-2023,  Chennai  ,CRITICAL,0.0,Driver refused to switch off AC,resolved
+INC0057,ORD001957,Harassment Complaint,07-05-2024, Delhi,Medium,0.0,,DISMISSED
+INC0058,ORD002070, Rash Driving,07-27-2023,Gurugram,  Critical  ,210.22,,DISMISSED
+INC0059,ORD003754,Overcharging,2024/05/19, Gurugram,LOW,,Overcharged compared to app estimate,Resolved
+INC0060,ORD584891,RASH DRIVING,09-15-2023,Hyderabad,Critical,0.0,Driver was rude to passenger,Under Review
+INC0061,ORD001068,Rash Driving,2024/09/15,  Chandigarh  ,  Low  ,0.0,Overcharged compared to app estimate,Under Review
+INC0062,ORD565418,harassment complaint,13 Apr 2025,Bhopal,Low,3104.93,,Dismissed
+INC0063,ORD000673,overcharging,02/07/2025,lucknow,high,2853.14,Driver was rude to passenger,Pending
+INC0064,ORD004089,overcharging,21/06/2023,Mumbai, Medium,0.0,Driver took a longer route than needed,DISMISSED
+INC0065,ORD003376,Harassment Complaint,00-00-0000, Lucknow,medium,0.0,,Resolved
+INC0066,ORD595941,Vehicle Breakdown,02-21-2024,BANGALORE,  Low  ,1998.41,Driver refused to switch off AC,DISMISSED
+INC0067,ORD002262, Overcharging,19-10-2023,Bangalore,critical,,Passenger left belongings in the cab,dismissed
+INC0068,ORD003388,Accident,2025/02/03,pune,Critical,,Vehicle broke down mid-trip,pending
+INC0069,ORD001983,  Harassment Complaint  ,2023/12/11,ahmedabad,Low,2580.82,Minor collision with a two-wheeler,Dismissed
+INC0070,ORD003367,Vehicle Breakdown,17-05-2024,Kolkata,High,0.0,,  Resolved  
+INC0071,ORD003988, Overcharging,05-17-2025,Lucknow,Medium,0.0,,Under Review
+INC0072,ORD003351,  Fight  ,2025/07/14,Lucknow,Critical,325.09,Driver refused to switch off AC,Pending
+INC0073,ORD004694,  Overcharging  ,27/03/2023,Pune,critical,0.0,Driver refused to switch off AC, Dismissed
+INC0074,ORD002476,VEHICLE BREAKDOWN,01-03-2023,Chennai,Low,2872.41,Minor collision with a two-wheeler,under review
+INC0075,ORD002000,accident,09 Aug 2025,delhi, Low,4898.11,Vehicle broke down mid-trip,Dismissed
+INC0076,ORD004561,Fight,2024/08/15,  Noida  ,Low,1667.93,Verbal altercation between driver and passenger,RESOLVED
+INC0077,ORD003093,Misbehavior,09/12/2023,Delhi, Critical,0.0,Driver refused to switch off AC,  Under Review  
+INC0078,ORD001131, Rash Driving,02-01-2023,Hyderabad,MEDIUM,1533.39,Driver was speeding on highway,under review
+INC0079,ORD000974,Accident,00-00-0000,Indore,critical,0.0,Vehicle broke down mid-trip,Resolved
+INC0080,ORD002565,Overcharging,,mumbai,MEDIUM,0.0,,Under Review
+INC0081,ORD569322,Overcharging,,Faridabad,Low,0.0,Driver was speeding on highway,Under Review
+INC0082,ORD517761,Vehicle Breakdown,2024/05/28,BANGALORE,Low,0.0,Driver refused to switch off AC,Pending
+INC0083,ORD003852,vehicle breakdown,2025/02/17, Noida, Critical,3551.08,Vehicle broke down mid-trip,Under Review
+INC0084,ORD001241,Rash Driving,20-12-2024,Faridabad,Critical,0.0,Driver was rude to passenger,Resolved
+INC0085,ORD002240,Fight,2024/03/11,noida, Low,0.0,Minor collision with a two-wheeler,Under Review
+INC0086,ORD003445, Fight,11-11-2025,lucknow,Medium,4929.3,,Under Review
+INC0087,ORD002609,vehicle breakdown,30-07-2024,BANGALORE,Low,0.0,Minor collision with a two-wheeler,PENDING
+INC0088,ORD002408,Misbehavior,2023/04/04,gurugram,Medium,0.0,Passenger left belongings in the cab,Dismissed
+INC0089,ORD003138,Rash Driving,11-27-2023,kolkata,  Critical  ,3575.06,,UNDER REVIEW
+INC0090,ORD002315,Harassment Complaint,29-12-2025,mumbai,Critical,0.0,Driver took a longer route than needed,Pending
+INC0091,ORD001078,Vehicle Breakdown,24/05/2023,Bangalore,MEDIUM,0.0,Minor collision with a two-wheeler,UNDER REVIEW
+INC0092,ORD002369,Rash Driving,09-07-2024,Mumbai,Medium,0.0,Verbal altercation between driver and passenger,Under Review
+INC0093,ORD000811,Fight,07-03-2023,Chennai,Critical,0.0,Passenger argued with driver over fare,  Dismissed  
+INC0094,ORD550952, Harassment Complaint,20/03/2025,Bhopal,critical,2059.92,,Under Review
+INC0095,ORD000190,Harassment Complaint,2023/09/09,Gurugram,Medium,0.0,Minor collision with a two-wheeler,Pending
+INC0096,ORD000767,Harassment Complaint,,Chennai,Medium,1354.74,,pending
+INC0097,ORD598641,Harassment Complaint,2024/07/26,Bhopal,High,0.0,Driver refused to switch off AC,Pending
+INC0098,ORD002752,Accident,03-06-2025,Jaipur,Critical,0.0,Passenger argued with driver over fare,Under Review
+INC0099,ORD004223,  Misbehavior  ,07 Mar 2024,pune,MEDIUM,1289.65,Driver refused to switch off AC,Under Review
+INC0100,ORD001319,Overcharging,10-30-2025,Kolkata,Medium,0.0,Overcharged compared to app estimate,Resolved
+INC0101,ORD544102,Overcharging,00-00-0000,noida,  Critical  ,4477.92,,DISMISSED
+INC0102,ORD004439,ACCIDENT,00-00-0000,Noida,CRITICAL,863.56,,Pending
+INC0103,ORD001867,Harassment Complaint,19 Jun 2024,noida,Low,4083.84,Passenger argued with driver over fare, Dismissed
+INC0104,ORD003934, Accident,2025/07/16,GURUGRAM,MEDIUM,4159.84,Passenger argued with driver over fare,DISMISSED
+INC0105,ORD569610,Rash Driving,13/07/2024,  Ahmedabad  ,Medium,0.0,Verbal altercation between driver and passenger,resolved
+INC0106,ORD004782,Fight,05-18-2024,Mumbai,LOW,3994.83,Driver was rude to passenger,Pending
+INC0107,ORD001248, Harassment Complaint,2024/10/20,Kolkata,HIGH,2216.24,Vehicle broke down mid-trip,pending
+INC0108,ORD000652,Accident,30 Nov 2024,DELHI,Medium,0.0,,RESOLVED
+INC0109,ORD004240,Overcharging,07 Mar 2024,BANGALORE,Critical,0.0,Minor collision with a two-wheeler,Pending
+INC0110,ORD530462, Accident,,Gurugram, High,1691.15,Passenger argued with driver over fare,under review
+INC0111,ORD004137,Fight,03-11-2024,Jaipur,  Medium  ,,,Resolved
+INC0112,ORD004068,Fight,00-00-0000,Lucknow,Critical,2485.75,Overcharged compared to app estimate,  Pending  
+INC0113,ORD004988,FIGHT,00-00-0000,Kolkata,  High  ,0.0,Minor collision with a two-wheeler,Pending
+INC0114,ORD000651,Fight,01-05-2023,Bangalore,High,647.78,Driver took a longer route than needed,Dismissed
+INC0115,ORD003567,Overcharging,09-02-2025,Chandigarh,Medium,3153.68,Minor collision with a two-wheeler, Under Review
+INC0116,ORD001017,VEHICLE BREAKDOWN,09-01-2023,Indore,low,0.0,Passenger argued with driver over fare,Dismissed
+INC0117,ORD001621,Vehicle Breakdown,2023/01/20,Kolkata, Critical,3052.12,,Pending
+INC0118,ORD002323,Overcharging,00-00-0000,  Delhi  ,MEDIUM,751.51,,dismissed
+INC0119,ORD506963,Accident,2025/04/26,  Hyderabad  ,LOW,4322.3,Driver was speeding on highway,Dismissed
+INC0120,ORD001321,Misbehavior,28/09/2025,  Bangalore  ,  Low  ,0.0,Verbal altercation between driver and passenger,Resolved
+INC0121,ORD000924,Accident,00-00-0000,Lucknow,  Medium  ,1218.13,Driver took a longer route than needed,Under Review
+INC0122,ORD004208,HARASSMENT COMPLAINT,16-06-2023,Lucknow,LOW,0.0,,  Resolved  
+INC0123,ORD001989,harassment complaint,06-08-2023,Chandigarh,critical,,Driver was speeding on highway, Dismissed
+INC0124,ORD004740,Fight,,Faridabad,Critical,3677.12,Driver was rude to passenger,Pending
+INC0125,ORD003345,Harassment Complaint,30 Jun 2025,Delhi,high,0.0,Verbal altercation between driver and passenger,Pending
+INC0126,ORD581348,Fight,10 Sep 2023,Kolkata,High,0.0,Verbal altercation between driver and passenger,Resolved
+INC0127,ORD003977,Fight,23/12/2024,chennai,Low,0.0,Overcharged compared to app estimate, Pending
+INC0128,ORD001214,Overcharging,09 Feb 2025,Jaipur,Critical,3214.72,Driver took a longer route than needed,Resolved
+INC0129,ORD002722,Overcharging,03-01-2025,ahmedabad,Low,0.0,Minor collision with a two-wheeler,Pending
+INC0130,ORD002543,MISBEHAVIOR,03-03-2025,  Hyderabad  ,HIGH,2762.87,Minor collision with a two-wheeler,Pending
+INC0131,ORD505824,Accident,12-29-2023,  Gurugram  ,MEDIUM,56968.91,Minor collision with a two-wheeler,Resolved
+INC0132,ORD004608, Accident,00-00-0000,Bhopal,Low,3603.32,Driver was rude to passenger,Dismissed
+INC0133,ORD001345,Accident,00-00-0000,Faridabad,Medium,0.0,Driver took a longer route than needed,UNDER REVIEW
+INC0134,ORD502258,MISBEHAVIOR,,HYDERABAD,critical,0.0,Driver was speeding on highway,Resolved
+INC0135,ORD002155,Rash Driving,28-01-2025,Delhi,Low,4918.24,Driver refused to switch off AC, Resolved
+INC0136,ORD004112,Overcharging,31 Jan 2024,INDORE,Critical,78041.35,Overcharged compared to app estimate,Dismissed
+INC0137,ORD002917, Rash Driving,29-06-2025, Faridabad,Medium,4346.72,Driver took a longer route than needed,Resolved
+INC0138,ORD004727,misbehavior,20-01-2023,  Hyderabad  ,Critical,,,resolved
+INC0139,ORD002368,Harassment Complaint,29 Mar 2024,CHENNAI,Critical,0.0,Driver took a longer route than needed,resolved
+INC0140,ORD523322, Accident,02-10-2023,lucknow,High,,Driver was rude to passenger,Resolved
+INC0141,ORD004812,Overcharging,29/07/2024,  Chennai  ,High,0.0,,Resolved
+INC0142,ORD001665,Fight,01-02-2025,Jaipur,High,1608.32,Passenger argued with driver over fare,PENDING
+INC0143,ORD000337,FIGHT,28/01/2024,mumbai,Critical,0.0,Driver was speeding on highway,DISMISSED
+INC0144,ORD003597,VEHICLE BREAKDOWN,,AHMEDABAD,  Critical  ,0.0,Overcharged compared to app estimate,Dismissed
+INC0145,ORD000603,Vehicle Breakdown,09-12-2024,Bhopal, Medium,0.0,Passenger argued with driver over fare,Pending
+INC0146,ORD001276,MISBEHAVIOR,28-03-2024,Noida,Medium,0.0,Driver took a longer route than needed,Resolved
+INC0147,ORD001779,  Overcharging  ,00-00-0000,  Bhopal  ,High,964.36,Driver refused to switch off AC,Pending
+INC0148,ORD002035,misbehavior,08-10-2025,Mumbai,MEDIUM,69285.0,Driver was speeding on highway,DISMISSED
+INC0149,ORD000465,overcharging,13/01/2025,Kolkata,High,0.0,Driver was rude to passenger, Pending
+INC0150,ORD000703,Overcharging,00-00-0000,Noida,MEDIUM,,Driver refused to switch off AC,  Under Review  
+INC0151,ORD004247,Overcharging,2024/07/28,Pune,low,1463.74,Passenger argued with driver over fare,Pending
+INC0152,ORD001352,FIGHT,06-10-2025,Faridabad,HIGH,0.0,Minor collision with a two-wheeler,Under Review
+INC0153,ORD002100,VEHICLE BREAKDOWN,2024/03/04,hyderabad,critical,,Driver took a longer route than needed,  Pending  
+INC0154,ORD003260,misbehavior,01-15-2023,Jaipur,low,71023.31,Vehicle broke down mid-trip,PENDING
+INC0155,ORD000289,Vehicle Breakdown,2024/02/06,gurugram,  Low  ,0.0,,Resolved
+INC0156,ORD001111,  Rash Driving  ,22-03-2025,Bangalore,  Medium  ,0.0,, Under Review
+INC0157,ORD001302,OVERCHARGING,16-08-2023,  Pune  ,critical,2044.04,,Dismissed
+INC0158,ORD001608,Harassment Complaint,22/07/2024,  Delhi  ,  Low  ,0.0,Minor collision with a two-wheeler,Under Review
+INC0159,ORD004501,Rash Driving,2025/10/21,Mumbai, Medium,2280.85,Passenger left belongings in the cab,Pending
+INC0160,ORD004312, Rash Driving,08 Oct 2025,NOIDA,Critical,0.0,Driver was rude to passenger,resolved
+INC0161,ORD004551,Misbehavior,2023/12/16,Chennai,MEDIUM,1688.39,Driver took a longer route than needed,Under Review
+INC0162,ORD002211,Misbehavior,01-02-2024,  Mumbai  ,  High  ,0.0,Passenger argued with driver over fare,  Dismissed  
+INC0163,ORD000564,HARASSMENT COMPLAINT,26 Dec 2023,Delhi,  Critical  ,,,Pending
+INC0164,ORD568522,accident,14-05-2023,Gurugram,CRITICAL,4305.9,Verbal altercation between driver and passenger,  Dismissed  
+INC0165,ORD555336,overcharging,2023/09/20,pune,High,0.0,Verbal altercation between driver and passenger,Resolved
+INC0166,ORD003027,Vehicle Breakdown,2023/05/14,Bangalore,LOW,1684.4,Minor collision with a two-wheeler,Under Review
+INC0167,ORD003643,Harassment Complaint,18-09-2023,chennai, Critical,2000.66,Driver was speeding on highway,  Dismissed  
+INC0168,ORD004460,Misbehavior,15/06/2024,faridabad,Critical,0.0,Passenger argued with driver over fare,Pending
+INC0169,ORD003037,Accident,11-04-2024,Noida,High,,Passenger argued with driver over fare,dismissed
+INC0170,ORD004224,misbehavior,07 Dec 2025,Chandigarh,High,0.0,Driver refused to switch off AC,Resolved
+INC0171,ORD591217,Fight,15/07/2024,Ahmedabad,Critical,0.0,Driver was speeding on highway,Pending
+INC0172,ORD003687,Accident,,Chandigarh,medium,,Minor collision with a two-wheeler,Resolved
+INC0173,ORD004289,VEHICLE BREAKDOWN,,Jaipur, High,1925.11,Verbal altercation between driver and passenger,RESOLVED
+INC0174,ORD501419,  Fight  ,27-12-2025,MUMBAI,High,1146.17,Driver took a longer route than needed,RESOLVED
+INC0175,ORD001980,  Misbehavior  ,2024/06/01,Faridabad,low,0.0,Driver was speeding on highway,dismissed
+INC0176,ORD001340,Vehicle Breakdown,,Mumbai,Critical,3035.91,Driver refused to switch off AC,Dismissed
+INC0177,ORD002634,HARASSMENT COMPLAINT,01-05-2023,kolkata, Critical,0.0,Driver was rude to passenger,Under Review
+INC0178,ORD001651,Fight,2025/05/24,Faridabad,high,3693.56,Vehicle broke down mid-trip,Dismissed
+INC0179,ORD000938,RASH DRIVING,17 Apr 2023,Ahmedabad,  Medium  ,0.0,Vehicle broke down mid-trip,Dismissed
+INC0180,ORD004246,Vehicle Breakdown,10-23-2024, Ahmedabad,Medium,2919.59,Passenger argued with driver over fare,UNDER REVIEW
+INC0181,ORD003838,Harassment Complaint,2025/06/04,  Pune  ,Low,3260.71,Minor collision with a two-wheeler,DISMISSED
+INC0182,ORD528586,Fight,2025/04/13,  Lucknow  ,  High  ,0.0,,  Resolved  
+INC0183,ORD522385,Misbehavior,2024/07/15, Indore,Critical,0.0,Overcharged compared to app estimate,dismissed
+INC0184,ORD000587,  Fight  ,07/09/2023,Noida,HIGH,,Driver took a longer route than needed,Under Review
+INC0185,ORD001244,Accident,2025/11/27,Mumbai,low,0.0,Passenger left belongings in the cab,DISMISSED
+INC0186,ORD002532,Rash Driving,2025/08/13,delhi,Low,0.0,Driver refused to switch off AC,Pending
+INC0187,ORD001544,Rash Driving,11/10/2025,Jaipur,High,4200.79,,RESOLVED
+INC0188,ORD003086,HARASSMENT COMPLAINT,10-01-2025,lucknow,Low,2702.64,Verbal altercation between driver and passenger,PENDING
+INC0189,ORD000278,  Accident  ,11-25-2025,Indore,Medium,,Driver took a longer route than needed,RESOLVED
+INC0190,ORD569125,Rash Driving,31-03-2023,Bangalore,Critical,0.0,, Dismissed
+INC0191,ORD004792,Harassment Complaint,2024/04/04,KOLKATA,Medium,2079.82,Driver was speeding on highway,Resolved
+INC0192,ORD001432,Overcharging,07-04-2023,Ahmedabad,Low,0.0,Driver was rude to passenger, Dismissed
+INC0193,ORD003722,  Misbehavior  ,23/07/2024, Lucknow,HIGH,595.96,Driver refused to switch off AC,under review
+INC0194,ORD002776,  Rash Driving  ,10 May 2025,Bhopal, High,0.0,Overcharged compared to app estimate,dismissed
+INC0195,ORD004837,Accident,00-00-0000,chennai,High,-433.68,Verbal altercation between driver and passenger,UNDER REVIEW
+INC0196,ORD004216,harassment complaint,08/07/2025,CHANDIGARH,MEDIUM,2940.38,Driver was rude to passenger,Resolved
+INC0197,ORD000549,Harassment Complaint,2024/10/09,Mumbai,  High  ,0.0,Minor collision with a two-wheeler,RESOLVED
+INC0198,ORD004175,Misbehavior,00-00-0000,gurugram,Critical,2834.84,,  Resolved  
+INC0199,ORD001420,Fight,00-00-0000,Kolkata,low,646.43,, Under Review
+INC0200,ORD001127,Vehicle Breakdown,2024/02/03,  Delhi  ,Medium,2223.14,Minor collision with a two-wheeler,RESOLVED
+INC0201,ORD004630,Rash Driving,11-16-2024,Indore,Low,3205.14,,Dismissed
+INC0202,ORD004070,rash driving,17-06-2023,  Mumbai  ,High,4097.88,Driver was rude to passenger, Pending
+INC0203,ORD004586,Misbehavior,21-02-2023,Noida,HIGH,0.0,,Resolved
+INC0204,ORD003638,Vehicle Breakdown,07/04/2024,Lucknow,  High  ,2297.63,,DISMISSED
+INC0205,ORD000657,MISBEHAVIOR,17/05/2025,noida,low,4502.9,,Resolved
+INC0206,ORD004030,ACCIDENT,02-06-2023,delhi,HIGH,2261.63,Driver was rude to passenger,pending
+INC0207,ORD567242,Vehicle Breakdown,2024/05/26,Lucknow,Low,,Driver took a longer route than needed,PENDING
+INC0208,ORD003365,Overcharging,08/02/2024, Chandigarh, Medium,,Driver refused to switch off AC,  Dismissed  
+INC0209,ORD002985,Vehicle Breakdown,2023/12/03,indore,Medium,4794.67,Driver took a longer route than needed,Dismissed
+INC0210,ORD004526,Overcharging,2024/11/05,Noida,Critical,3682.18,Passenger left belongings in the cab,Dismissed
+INC0211,ORD000478, Accident,28/09/2024,pune,HIGH,2825.98,Driver refused to switch off AC,Dismissed
+INC0212,ORD003003,Misbehavior,09-05-2023,Hyderabad,critical,0.0,Minor collision with a two-wheeler,Resolved
+INC0213,ORD001314,FIGHT,2023/07/18,Hyderabad,Low,0.0,Vehicle broke down mid-trip,PENDING
+INC0214,ORD000034,overcharging,27-02-2023,Bhopal,High,0.0,Passenger argued with driver over fare,DISMISSED
+INC0215,ORD001402,Rash Driving,09 Sep 2025,MUMBAI,critical,3226.03,Overcharged compared to app estimate,RESOLVED
+INC0216,ORD002582,misbehavior,03-06-2025,Chandigarh,medium,0.0,Passenger argued with driver over fare,DISMISSED
+INC0217,ORD514401,accident,19/02/2023,pune,High,-112.84,Driver was speeding on highway,Pending
+INC0218,ORD002080,Fight,15-11-2024,  Jaipur  ,High,1955.86,Overcharged compared to app estimate,Under Review
+INC0219,ORD002514,Harassment Complaint,27 May 2024,chennai,Medium,0.0,Verbal altercation between driver and passenger,Dismissed
+INC0220,ORD573354,Vehicle Breakdown,21/05/2024,AHMEDABAD,Medium,0.0,,Pending
+INC0221,ORD000256,rash driving,09-08-2023,INDORE,  Critical  ,0.0,Passenger left belongings in the cab,Dismissed
+INC0222,ORD000601,Rash Driving,27-08-2025,Hyderabad,Low,0.0,Driver was rude to passenger,Pending
+INC0223,ORD002508,Overcharging,03-05-2024,Chandigarh,medium,236.94,Driver took a longer route than needed,dismissed
+INC0224,ORD000220,  Rash Driving  ,28-11-2024,Noida,Low,0.0,Driver was speeding on highway,Resolved
+INC0225,ORD002242,Fight,2023/04/22,Bangalore,High,3498.89,,Dismissed
+INC0226,ORD004623,Vehicle Breakdown,2024/11/14,Chandigarh,Critical,0.0,,  Pending  
+INC0227,ORD576480, Misbehavior,2025/11/30,BANGALORE,Medium,662.53,Driver took a longer route than needed,pending
+INC0228,ORD001356,Accident,00-00-0000,noida, High,0.0,Verbal altercation between driver and passenger,dismissed
+INC0229,ORD002216,  Fight  ,2023/05/30,MUMBAI,Low,4204.25,Verbal altercation between driver and passenger,  Pending  
+INC0230,ORD003543,Fight,2025/06/17,Pune,high,2433.02,Verbal altercation between driver and passenger,  Dismissed  
+INC0231,ORD003203,Overcharging,15-07-2023, Delhi,Medium,0.0,Vehicle broke down mid-trip,Resolved
+INC0232,ORD003572,rash driving,03/07/2025, Ahmedabad,low,0.0,Driver took a longer route than needed, Dismissed
+INC0233,ORD001071,Misbehavior,2023/09/13,Bangalore,  High  ,0.0,,Pending
+INC0234,ORD004808,overcharging,06-25-2023,BANGALORE,medium,1735.2,Overcharged compared to app estimate,Under Review
+INC0235,ORD004939, Accident,00-00-0000,  Bangalore  ,high,2307.39,Vehicle broke down mid-trip,Resolved
+INC0236,ORD001499,Rash Driving,10-03-2023,Faridabad,Critical,0.0,Driver took a longer route than needed,Under Review
+INC0237,ORD004867,  Fight  ,11-02-2025,Bangalore, Low,0.0,Driver was speeding on highway,Resolved
+INC0238,ORD002764,  Accident  ,03-10-2024, Kolkata,  Medium  ,0.0,Passenger argued with driver over fare,Dismissed
+INC0239,ORD003478,Overcharging,14 May 2023,chandigarh,CRITICAL,988.91,Minor collision with a two-wheeler, Under Review
+INC0240,ORD004942,HARASSMENT COMPLAINT,19-09-2023,delhi,Critical,0.0,,  Under Review  
+INC0241,ORD000962,HARASSMENT COMPLAINT,,faridabad,CRITICAL,0.0,Vehicle broke down mid-trip,Pending
+INC0242,ORD004876,Vehicle Breakdown,2025/06/24,mumbai,Critical,58843.5,Passenger argued with driver over fare,Dismissed
+INC0243,ORD003206,Rash Driving,2023/04/23,Noida,Critical,0.0,Passenger argued with driver over fare,Resolved
+INC0244,ORD532082,rash driving,2024/09/09,Pune,Low,268.01,Driver was speeding on highway,UNDER REVIEW
+INC0245,ORD003823, Rash Driving,2025/06/03,Indore,Medium,0.0,Vehicle broke down mid-trip,resolved
+INC0246,ORD004222,  Fight  ,15-05-2023,Kolkata,high,675.17,Overcharged compared to app estimate,PENDING
+INC0247,ORD559590,Harassment Complaint,2023/07/28,Lucknow,High,671.8,,PENDING
+INC0248,ORD002531,Misbehavior,25-04-2023,Lucknow,Medium,2988.65,,Under Review
+INC0249,ORD002734,  Accident  ,2023/04/17,Kolkata, Critical,0.0,,Dismissed
+INC0250,ORD003775,Vehicle Breakdown,00-00-0000,ahmedabad,Low,0.0,Driver was rude to passenger,resolved
+INC0251,ORD003777,Vehicle Breakdown,20-02-2025,lucknow,High,0.0,,Pending
+INC0252,ORD003373,Misbehavior,02-04-2025,Noida,High,4343.39,Verbal altercation between driver and passenger,PENDING
+INC0253,ORD000925,harassment complaint,2023/07/16,Kolkata,CRITICAL,0.0,Driver was speeding on highway,pending
+INC0254,ORD004444,Overcharging,21-04-2025,Chandigarh,CRITICAL,1297.58,Minor collision with a two-wheeler, Dismissed
+INC0255,ORD004426,Harassment Complaint,22-04-2024,ahmedabad,  Medium  ,,Passenger argued with driver over fare,DISMISSED
+INC0256,ORD004282,Rash Driving,22-01-2023,hyderabad,MEDIUM,0.0,Passenger argued with driver over fare,Resolved
+INC0257,ORD000380,Overcharging,07-17-2025,Pune,medium,0.0,,Resolved
+INC0258,ORD000445, Accident,02-25-2025,gurugram,Medium,0.0,Verbal altercation between driver and passenger,DISMISSED
+INC0259,ORD003784,Misbehavior,08/08/2025,Bhopal,Medium,2325.67,Passenger left belongings in the cab,Under Review
+INC0260,ORD004827,Misbehavior,26-05-2025,bangalore,Low,,Minor collision with a two-wheeler,dismissed
+INC0261,ORD002721,Accident,07-27-2023,delhi, Low,0.0,Passenger left belongings in the cab,RESOLVED
+INC0262,ORD000049,Rash Driving,2024/11/26,MUMBAI,HIGH,2385.88,Verbal altercation between driver and passenger,Dismissed
+INC0263,ORD003072,Misbehavior,23-02-2023,  Delhi  ,medium,0.0,Vehicle broke down mid-trip,PENDING
+INC0264,ORD000206,  Fight  ,00-00-0000,chennai,  Critical  ,4697.22,Driver was speeding on highway,Resolved
+INC0265,ORD599660,Misbehavior,25 Nov 2025,pune,Medium,2203.92,Driver was rude to passenger,RESOLVED
+INC0266,ORD003026,Overcharging,03-11-2024,ahmedabad, Low,973.21,,Under Review
+INC0267,ORD003708,Harassment Complaint,30-01-2024,BHOPAL,Critical,2074.24,Passenger argued with driver over fare,Pending
+INC0268,ORD000120,  Harassment Complaint  ,2023/08/10,Indore,LOW,,,Under Review
+INC0269,ORD003285, Fight,30-07-2023,kolkata,HIGH,2625.25,Driver refused to switch off AC,Dismissed
+INC0270,ORD003540,Misbehavior,26/01/2023,Indore,low,0.0,Driver refused to switch off AC,Dismissed
+INC0271,ORD001271,Accident,19/05/2023,faridabad,  High  ,0.0,Driver was rude to passenger, Resolved
+INC0272,ORD001082,Vehicle Breakdown,01/02/2024,LUCKNOW,CRITICAL,3717.72,Vehicle broke down mid-trip,  Pending  
+INC0273,ORD004331,Rash Driving,16-09-2023,Lucknow,low,2484.99,,  Resolved  
+INC0274,ORD002771,harassment complaint,08/11/2025,ahmedabad,high,,Verbal altercation between driver and passenger,  Resolved  
+INC0275,ORD000301,Misbehavior,2024/06/08,Chandigarh,High,0.0,Minor collision with a two-wheeler,  Dismissed  
+INC0276,ORD004188,  Overcharging  ,28/12/2024,Noida,Medium,0.0,Passenger argued with driver over fare,  Dismissed  
+INC0277,ORD002340,overcharging,12-05-2025,Kolkata,Critical,3278.0,Driver took a longer route than needed,under review
+INC0278,ORD512106,  Overcharging  ,12/09/2025,Indore,  High  ,0.0,Vehicle broke down mid-trip,Resolved
+INC0279,ORD002046,Overcharging,29-06-2025,Chandigarh,critical,3630.46,Driver refused to switch off AC,Dismissed
+INC0280,ORD519610, Overcharging,16-01-2024,Chandigarh,Low,484.16,Vehicle broke down mid-trip,  Resolved  
+INC0281,ORD533300,HARASSMENT COMPLAINT,12-05-2024,Faridabad,Low,0.0,Driver was speeding on highway, Resolved
+INC0282,ORD004398,Accident,09/10/2023,Hyderabad,Critical,0.0,,resolved
+INC0283,ORD004982,Vehicle Breakdown,2023/04/01,Chandigarh,Critical,2242.12,Minor collision with a two-wheeler,Under Review
+INC0284,ORD000918,FIGHT,2023/05/04,BHOPAL,  Low  ,4751.06,Minor collision with a two-wheeler,dismissed
+INC0285,ORD001488,FIGHT,09-19-2023,Mumbai, Critical,0.0,Minor collision with a two-wheeler, Resolved
+INC0286,ORD004332,OVERCHARGING,2024/09/30,Hyderabad,Medium,0.0,Passenger left belongings in the cab,  Under Review  
+INC0287,ORD001744,Vehicle Breakdown,06-11-2025,Gurugram,Medium,0.0,,Pending
+INC0288,ORD004039,Rash Driving,16-11-2025,Noida,  Critical  ,0.0,Driver took a longer route than needed,PENDING
+INC0289,ORD584752,Misbehavior,01-02-2025,Mumbai,Low,0.0,Verbal altercation between driver and passenger,Under Review
+INC0290,ORD001038,Rash Driving,29-09-2024,Lucknow,  High  ,0.0,,Resolved
+INC0291,ORD578456,Misbehavior,26-10-2023,chennai,  Critical  ,0.0,Driver was rude to passenger,Dismissed
+INC0292,ORD001806,VEHICLE BREAKDOWN,29-10-2023, Chennai,Medium,2474.8,Vehicle broke down mid-trip,  Resolved  
+INC0293,ORD004714,Rash Driving,19-08-2025, Pune,low,4923.73,Driver refused to switch off AC,Resolved
+INC0294,ORD003219,RASH DRIVING,09-24-2024,GURUGRAM, Low,1161.27,Passenger argued with driver over fare,  Resolved  
+INC0295,ORD002761,Overcharging,03-12-2024,Delhi,medium,2985.82,Passenger left belongings in the cab,RESOLVED
+INC0296,ORD564017,Rash Driving,08-19-2024,noida,  Medium  ,0.0,Minor collision with a two-wheeler,Under Review
+INC0297,ORD004722,  Accident  ,2025/01/25,Bangalore,Medium,-525.34,Passenger argued with driver over fare,dismissed
+INC0298,ORD002329,accident,17-01-2023,BANGALORE,High,300.23,Driver took a longer route than needed,Dismissed
+INC0299,ORD515706,  Misbehavior  ,2025/11/26,chennai,  Low  ,,Vehicle broke down mid-trip, Dismissed
+INC0300,ORD003377,Vehicle Breakdown,24-10-2023,Mumbai,Medium,3510.81,Passenger argued with driver over fare,Dismissed
+INC0301,ORD003227,Misbehavior,2023/04/28,FARIDABAD, Medium,0.0,,Under Review
+INC0302,ORD003950,Fight,,Noida,  High  ,911.15,Driver took a longer route than needed,Dismissed
+INC0303,ORD001204,Misbehavior,2025/11/04,Bhopal, Low,0.0,,RESOLVED
+INC0304,ORD000081,Rash Driving,04-22-2023,chennai,Low,,Vehicle broke down mid-trip,dismissed
+INC0305,ORD002812,Harassment Complaint,14/05/2025,Bangalore,Medium,0.0,Driver took a longer route than needed,PENDING
+INC0306,ORD000100,Fight,05-12-2024,gurugram, Medium,3705.45,Driver was rude to passenger,DISMISSED
+INC0307,ORD004308, Harassment Complaint,2024/02/05,INDORE,LOW,1962.22,Driver refused to switch off AC,DISMISSED
+INC0308,ORD003059,  Fight  ,15-02-2024,Delhi,Critical,1610.71,Driver was rude to passenger,PENDING
+INC0309,ORD004822,Harassment Complaint,00-00-0000,chandigarh, Medium,0.0,Passenger left belongings in the cab,under review
+INC0310,ORD002156,Vehicle Breakdown,21 May 2023,Indore,Low,0.0,Overcharged compared to app estimate,Under Review
+INC0311,ORD582542, Overcharging,30-11-2024,Kolkata,high,0.0,,Dismissed
+INC0312,ORD001946, Vehicle Breakdown,00-00-0000,Mumbai,  Critical  ,0.0,Driver refused to switch off AC, Under Review
+INC0313,ORD003122,Accident,09-01-2025,gurugram,Low,,Vehicle broke down mid-trip,pending
+INC0314,ORD004288,Overcharging,15-08-2025, Chennai,medium,1669.55,Driver took a longer route than needed,RESOLVED
+INC0315,ORD001474,misbehavior,11-09-2024,MUMBAI,Medium,0.0,Driver was speeding on highway,  Resolved  
+INC0316,ORD004984,overcharging,2024/11/18,Bangalore,Medium,2678.03,Passenger argued with driver over fare,Pending
+INC0317,ORD004219,ACCIDENT,2024/09/05,Hyderabad,Critical,2045.36,Driver was speeding on highway,dismissed
+INC0318,ORD003246, Fight,07 May 2025,  Noida  ,High,0.0,Driver was rude to passenger,  Under Review  
+INC0319,ORD004554,Accident,2024/11/04,mumbai,low,2055.18,Vehicle broke down mid-trip,Pending
+INC0320,ORD002238,fight,2023/11/29,Chennai,MEDIUM,1378.26,Driver was speeding on highway,dismissed
+INC0321,ORD003229,rash driving,08-03-2023,KOLKATA,Medium,0.0,Overcharged compared to app estimate,Dismissed
+INC0322,ORD001536, Harassment Complaint,19/07/2025,indore,High,763.93,Driver was rude to passenger,Under Review
+INC0323,ORD003415, Overcharging,28-03-2023,hyderabad,low,0.0,,UNDER REVIEW
+INC0324,ORD002594,harassment complaint,12/10/2025,Bhopal,CRITICAL,0.0,Passenger left belongings in the cab,Pending
+INC0325,ORD000664,Misbehavior,2024/03/25,Lucknow,Medium,,Driver refused to switch off AC,  Under Review  
+INC0326,ORD519550,Vehicle Breakdown,08-01-2023,  Chennai  ,High,0.0,Driver refused to switch off AC,Pending
+INC0327,ORD002089,Rash Driving,01-04-2024,chennai,Low,0.0,Passenger left belongings in the cab,Dismissed
+INC0328,ORD002682,Fight,16-04-2024,Kolkata,Critical,747.78,Verbal altercation between driver and passenger,under review
+INC0329,ORD569050,Vehicle Breakdown,13/08/2025,JAIPUR,Critical,1721.33,,Resolved
+INC0330,ORD000968,Fight,03-12-2024,Faridabad,High,0.0,Minor collision with a two-wheeler,Under Review
+INC0331,ORD000474,Rash Driving,05-04-2024,Noida,Critical,4932.31,Passenger left belongings in the cab,dismissed
+INC0332,ORD003174,Misbehavior,11-09-2025,Gurugram,Medium,4821.67,Driver was speeding on highway,under review
+INC0333,ORD544992, Vehicle Breakdown,09 Nov 2024,Bhopal,Critical,1557.27,,Dismissed
+INC0334,ORD004071,ACCIDENT,08/02/2025,Mumbai,HIGH,4696.0,,Under Review
+INC0335,ORD001631,Fight,25-02-2024,Jaipur,MEDIUM,560.5,Driver took a longer route than needed, Resolved
+INC0336,ORD532913,Rash Driving,30-03-2025,Delhi, Critical,0.0,Overcharged compared to app estimate,  Resolved  
+INC0337,ORD000405, Harassment Complaint,01-13-2024,Jaipur,  High  ,0.0,Passenger left belongings in the cab,UNDER REVIEW
+INC0338,ORD004671,Harassment Complaint,14/01/2023,Ahmedabad,Critical,4762.27,Verbal altercation between driver and passenger,Resolved
+INC0339,ORD001797,Misbehavior,01-13-2025,Mumbai,Critical,2890.9,Overcharged compared to app estimate,Under Review
+INC0340,ORD517514,harassment complaint,21-01-2023,Ahmedabad,critical,1203.29,Driver was speeding on highway, Under Review
+INC0341,ORD003693,misbehavior,01/06/2023, Bhopal,MEDIUM,4413.92,Overcharged compared to app estimate,dismissed
+INC0342,ORD004427,OVERCHARGING,2025/01/02,GURUGRAM,Low,3882.9,Driver was speeding on highway, Under Review
+INC0343,ORD000479,Rash Driving,03-03-2023,Chennai,MEDIUM,4881.36,,  Pending  
+INC0344,ORD004927,Rash Driving,08-24-2023,NOIDA,Low,2225.19,Passenger left belongings in the cab, Dismissed
+INC0345,ORD000199,OVERCHARGING,10-19-2023,kolkata, Critical,0.0,Vehicle broke down mid-trip,Dismissed
+INC0346,ORD004798,FIGHT,18/08/2024,Indore,Critical,2323.59,Driver refused to switch off AC,Resolved
+INC0347,ORD000789, Overcharging,06-20-2025,Gurugram,Medium,,Verbal altercation between driver and passenger,PENDING
+INC0348,ORD003312,RASH DRIVING,02-03-2024,Faridabad,  Medium  ,3511.4,,dismissed
+INC0349,ORD000986,ACCIDENT,01-07-2025,Bhopal,Critical,2482.35,Overcharged compared to app estimate,  Resolved  
+INC0350,ORD577790, Misbehavior,31-03-2023,Ahmedabad,high,0.0,Minor collision with a two-wheeler,Resolved
+INC0351,ORD004884,  Overcharging  ,03-02-2023,Indore, Critical,0.0,Driver took a longer route than needed,Dismissed
+INC0352,ORD000365,Misbehavior,12-02-2024,Gurugram,Critical,4509.02,Driver was speeding on highway,Pending
+INC0353,ORD000842,Overcharging,,Hyderabad, High,0.0,Overcharged compared to app estimate, Pending
+INC0354,ORD003810, Fight,00-00-0000,PUNE,MEDIUM,3732.15,Verbal altercation between driver and passenger,resolved
+INC0355,ORD001883,misbehavior,00-00-0000,Kolkata,High,,Driver was speeding on highway,resolved
+INC0356,ORD001504,vehicle breakdown,2024/03/24,Delhi,Low,1691.92,Verbal altercation between driver and passenger,Pending
+INC0357,ORD000005,RASH DRIVING,20-06-2024,Pune,High,2131.65,Driver took a longer route than needed,UNDER REVIEW
+INC0358,ORD003120,Overcharging,23-12-2023,Hyderabad,Critical,0.0,Driver was speeding on highway,RESOLVED
+INC0359,ORD003501,Rash Driving,11-26-2024,Noida,  Critical  ,0.0,Vehicle broke down mid-trip,  Resolved  
+INC0360,ORD004841,HARASSMENT COMPLAINT,00-00-0000,KOLKATA,High,0.0,Passenger argued with driver over fare, Resolved
+INC0361,ORD565017,Rash Driving,01-01-2024,  Gurugram  ,  Medium  ,3145.61,Driver refused to switch off AC,Resolved
+INC0362,ORD558044,Vehicle Breakdown,06-02-2024,  Faridabad  ,High,0.0,Overcharged compared to app estimate,  Pending  
+INC0363,ORD002977,Accident,2023/02/14,Ahmedabad,Low,0.0,Driver took a longer route than needed,Pending
+INC0364,ORD002493,fight,2023/12/27,  Jaipur  ,critical,2485.95,Driver was rude to passenger,Under Review
+INC0365,ORD004823,HARASSMENT COMPLAINT,20-06-2024,delhi,Critical,4277.04,Overcharged compared to app estimate,Dismissed
+INC0366,ORD515189,overcharging,2023/07/27,BHOPAL,MEDIUM,94335.45,Verbal altercation between driver and passenger,Dismissed
+INC0367,ORD001081,Misbehavior,12/02/2023,bhopal,Critical,3577.65,Verbal altercation between driver and passenger,  Resolved  
+INC0368,ORD004362,Vehicle Breakdown,09-10-2023,Hyderabad,Medium,0.0,Vehicle broke down mid-trip,  Pending  
+INC0369,ORD506209,Overcharging,00-00-0000,MUMBAI,high,2135.06,Driver refused to switch off AC,Dismissed
+INC0370,ORD000219,vehicle breakdown,2023/08/16,Pune,High,3280.84,Driver took a longer route than needed,resolved
+INC0371,ORD004364, Harassment Complaint,24-11-2024,Faridabad, High,3464.03,Driver took a longer route than needed,  Under Review  
+INC0372,ORD002111,harassment complaint,2024/03/06,Delhi,  High  ,0.0,Overcharged compared to app estimate,  Under Review  
+INC0373,ORD002226, Rash Driving,16-09-2024,noida,Low,3624.99,Overcharged compared to app estimate,Resolved
+INC0374,ORD559553,OVERCHARGING,00-00-0000,Hyderabad,CRITICAL,433.0,Driver refused to switch off AC,Pending
+INC0375,ORD000614,Accident,2024/05/06,Lucknow,Low,0.0,Passenger argued with driver over fare,UNDER REVIEW
+INC0376,ORD001849,Overcharging,27/01/2025,Ahmedabad,  Critical  ,0.0,,  Under Review  
+INC0377,ORD003181,fight,00-00-0000,Bhopal,Low,2797.75,Driver took a longer route than needed,  Resolved  
+INC0378,ORD003296,Vehicle Breakdown,12-17-2023,Kolkata,High,1770.53,Passenger argued with driver over fare,Under Review
+INC0379,ORD000802,Overcharging,15 Dec 2025,Ahmedabad,HIGH,,,resolved
+INC0380,ORD001629,  Rash Driving  ,07-06-2025,delhi,Critical,1651.07,Driver took a longer route than needed,UNDER REVIEW
+INC0381,ORD001433,Misbehavior,14/05/2023,  Bhopal  ,MEDIUM,0.0,Driver took a longer route than needed,Dismissed
+INC0382,ORD002298,Vehicle Breakdown,00-00-0000,faridabad,Medium,1903.41,Driver took a longer route than needed,Dismissed
+INC0383,ORD002179,Rash Driving,23/10/2023,bhopal,  High  ,4433.55,Vehicle broke down mid-trip,Under Review
+INC0384,ORD002956,Fight,25 Sep 2023,gurugram,High,455.02,Driver refused to switch off AC,Pending
+INC0385,ORD004752, Fight,01-24-2024,INDORE,Low,0.0,,Pending
+INC0386,ORD001670,harassment complaint,2024/01/28,Noida,Critical,0.0,Driver refused to switch off AC,RESOLVED
+INC0387,ORD004801,misbehavior,26-12-2025, Delhi,high,0.0,Driver refused to switch off AC,PENDING
+INC0388,ORD001864,ACCIDENT,2025/02/13,Jaipur,  Low  ,0.0,Vehicle broke down mid-trip,Dismissed
+INC0389,ORD002183,  Overcharging  ,05-02-2025,hyderabad,Medium,3690.59,Driver was speeding on highway,Pending
+INC0390,ORD569929,Rash Driving,13-10-2024,bhopal,Medium,648.32,Driver was speeding on highway,Dismissed
+INC0391,ORD000157,ACCIDENT,29-05-2025,Hyderabad,Low,855.69,Driver took a longer route than needed,dismissed
+INC0392,ORD547455,Accident,2024/05/15,BHOPAL,Low,0.0,Passenger left belongings in the cab,Pending
+INC0393,ORD557934,Misbehavior,05/04/2023,HYDERABAD, Critical,512.23,Driver was rude to passenger,under review
+INC0394,ORD003985,Harassment Complaint,23 Jan 2024,lucknow,  High  ,,Verbal altercation between driver and passenger,Pending
+INC0395,ORD003587,Misbehavior,08-25-2024,hyderabad,Medium,4779.27,,Pending
+INC0396,ORD002103,Harassment Complaint,01 Nov 2023,Hyderabad,Medium,0.0,Driver took a longer route than needed,  Under Review  
+INC0397,ORD000989,Misbehavior,02-11-2024,Chandigarh,LOW,4497.82,Passenger left belongings in the cab, Resolved
+INC0398,ORD001050,Vehicle Breakdown,,Hyderabad,High,1641.03,,Dismissed
+INC0399,ORD002381,Overcharging,2023/04/20,Mumbai,Medium,454.53,,PENDING
+INC0400,ORD004173, Vehicle Breakdown,,Bangalore,High,786.1,Overcharged compared to app estimate, Pending
+INC0401,ORD585699,MISBEHAVIOR,16 Sep 2023,Faridabad,medium,0.0,Verbal altercation between driver and passenger,resolved
+INC0402,ORD003283,Vehicle Breakdown,2025/11/06,FARIDABAD,Medium,0.0,Driver was speeding on highway,Resolved
+INC0403,ORD000668, Overcharging,09-28-2025,gurugram,Low,0.0,Driver was speeding on highway,PENDING
+INC0404,ORD000119,Fight,03-04-2024,Gurugram,LOW,0.0,Vehicle broke down mid-trip,Dismissed
+INC0405,ORD004171,rash driving,2023/06/16,faridabad,high,4516.28,Driver took a longer route than needed,resolved
+INC0406,ORD569242,Harassment Complaint,21 Aug 2025,indore,High,0.0,Driver took a longer route than needed,resolved
+INC0407,ORD001180,rash driving,2023/05/13,Noida, High,0.0,Minor collision with a two-wheeler,Pending
+INC0408,ORD004301,  Accident  ,12-09-2023,Noida,High,4190.09,,Resolved
+INC0409,ORD000358,Rash Driving,2025/11/07,  Bangalore  ,low,4351.56,Passenger left belongings in the cab,Dismissed
+INC0410,ORD003767,Overcharging,05/03/2025,AHMEDABAD,critical,4833.1,Driver was rude to passenger,Resolved
+INC0411,ORD000185,  Overcharging  ,08-11-2025,CHENNAI,critical,62903.1,Driver refused to switch off AC,  Pending  
+INC0412,ORD001342,Fight,05/02/2025,Pune, Critical,,Passenger argued with driver over fare,Resolved
+INC0413,ORD542362, Overcharging,18-10-2025,  Noida  ,MEDIUM,0.0,Driver was rude to passenger,Dismissed
+INC0414,ORD001124,harassment complaint,28-11-2025, Jaipur,  Critical  ,0.0,Driver was rude to passenger,Pending
+INC0415,ORD002224,Accident,08-08-2025,Hyderabad,Medium,0.0,Minor collision with a two-wheeler,  Under Review  
+INC0416,ORD001384,ACCIDENT,,Delhi,Medium,0.0,Driver took a longer route than needed,under review
+INC0417,ORD001550,Misbehavior,2024/10/21,Delhi,Low,,Driver was speeding on highway,Pending
+INC0418,ORD002716,harassment complaint,02-04-2025,Kolkata,Low,0.0,Driver refused to switch off AC,Resolved
+INC0419,ORD002038, Vehicle Breakdown,12-12-2025,indore,High,0.0,Driver was rude to passenger,Dismissed
+INC0420,ORD001921,RASH DRIVING,16-09-2025,Mumbai,High,508.92,Driver was rude to passenger,  Under Review  
